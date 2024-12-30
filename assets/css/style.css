@@ -193,7 +193,8 @@ transform: scale(1.1);
 }
 
 .faq_section  .faq_wrap button{
-background-color:rgb(226, 179, 160);
+background-color:rgb(228, 207, 199);
+border: 1px solid rgb(243, 102, 8);
 }
 
 
